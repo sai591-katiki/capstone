@@ -1,0 +1,16 @@
+com\Magento\Pages\SignInPage.class
+com\Magento\Locaters\RegistrationPageObjects.class
+com\Magento\Pages\RegistrationPage.class
+com\Magento\Locaters\HomePageObjects.class
+com\Magento\Locaters\CkeckoutProcessPageObjects.class
+com\Magento\Locaters\SearchPageObjects.class
+com\Magento\Locaters\SearchResultPageObjects.class
+com\Magento\Pages\HomePage.class
+com\Magento\Pages\SearchResultPage.class
+com\Magento\Locaters\SignInPageObjects.class
+com\Magento\Browser\Utility.class
+com\Magento\Pages\SearchPage.class
+com\Magento\ScreenShot\CaptureScreenShot.class
+com\Magento\Browser\Browser.class
+com\Magento\Pages\MyAccountPage.class
+com\Magento\Locaters\MyAccountPageObjects.class

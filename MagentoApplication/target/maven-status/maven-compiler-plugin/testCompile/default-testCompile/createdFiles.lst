@@ -1,0 +1,10 @@
+com\Magento\StepDefnition\SignOutPageStepDefnition.class
+com\Magento\TestRunner\MagentoApplicationTestNG.class
+com\Magento\Hooks\Hooks.class
+com\Magento\StepDefnition\ProductSearchPageStepDefnition.class
+com\Magento\TestRunner\RegistrationTestNG.class
+com\Magento\StepDefnition\SignInPageStepDefnition.class
+com\Magento\StepDefnition\RegistrationPageStepDefnition.class
+com\Magento\TestRunner\ProductSearchAndAddToCartTestNG.class
+com\Magento\TestRunner\SignInTestNG.class
+com\Magento\TestRunner\SignOutTestNG.class
